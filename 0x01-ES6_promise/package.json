@@ -1,17 +1,10 @@
 {
   "name": "0x01-ES6_promise",
   "version": "1.0.0",
-  "description": "ALX Project on ES6 Promises",
+  "type": "module",
   "scripts": {
     "test": "jest",
-    "lint": "eslint ."
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.11.6",
-    "@babel/core": "^7.11.6",
-    "@babel/preset-env": "^7.11.5",
-    "babel-jest": "^26.6.3",
-    "eslint": "^7.11.0",
-    "jest": "^26.6.3"
+    "dev": "node"
   }
 }
+
