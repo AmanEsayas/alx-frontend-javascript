@@ -1,0 +1,19 @@
+{
+  "name": "es6_project",
+  "version": "1.0.0",
+  "description": "ES6 project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "babel-node",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "eslint": "^7.0.0",
+    "jest": "^26.0.0"
+  }
+}
